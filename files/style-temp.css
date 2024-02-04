@@ -75,7 +75,9 @@ a {
 img {
 max-width: 100%;
 height: auto;
-onContextMenu={(e) => e.preventDefault()}
+    pointer-events: none;
+onContextMenu={(e) => e.preventDefault()};
+    
 
 }
 
