@@ -33,7 +33,7 @@ em {
 
 .container {
   background: white;
-  padding: 1rem;
+  padding: .8rem;
   height: 100vh; }
 
 a {
@@ -75,6 +75,8 @@ a {
 img {
 max-width: 100%;
 height: auto;
+onContextMenu={(e) => e.preventDefault()}
+
 }
 
 ::selection {
