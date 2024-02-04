@@ -26,14 +26,14 @@ body {
 
 p {
   max-width: 33rem;
-  margin-bottom: 1rem; }
+  margin-bottom: .3rem; }
 
 em {
   font-style: normal; }
 
 .container {
   background: white;
-  padding: 1rem;
+  padding: .3rem;
   height: 100vh; }
 
 a {
