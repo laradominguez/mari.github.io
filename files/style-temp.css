@@ -50,8 +50,8 @@ a {
   transition: color 400ms ease-in-out, border-color 400ms linear; }
   a:hover {
     cursor: pointer;
-    color: lime;
-    border-color: lime; }
+    color: red;
+    border-color: red; }
 
 /*CURSOR---------------------*/
 #bg {
